@@ -1,0 +1,31 @@
+📜 Política de Privacidade – JogaJunto
+Última atualização: Abril de 2025
+
+A sua privacidade é importante para nós. Esta Política de Privacidade explica como o aplicativo JogaJunto coleta, usa, armazena e compartilha suas informações.
+
+1. Informações que Coletamos
+Nome e e-mail, através do login via Facebook.
+
+Mídias de check-in (fotos e vídeos) enviadas por você.
+
+Dados de uso no app: participação em torneios, desafios, interações sociais, entre outros.
+
+Informações analíticas através de ferramentas como Firebase Analytics.
+
+2. Como Usamos Seus Dados
+Para autenticar seu acesso ao app.
+
+Para exibir seu perfil, sua evolução no ranking e interações com a comunidade.
+
+Para melhorar a experiência e funcionamento do app com base no uso.
+
+Para comunicação sobre eventos, desafios e novidades do app.
+
+3. Armazenamento e Segurança
+Todos os dados são armazenados com segurança na plataforma Supabase, utilizando banco de dados PostgreSQL e armazenamento seguro para arquivos.
+
+4. Compartilhamento de Dados
+Não compartilhamos suas informações com terceiros, exceto quando exigido por lei ou para funcionamento essencial do app (como autenticação e analytics).
+
+5. Seus Direitos
+Você pode solicitar a exclusão de sua conta e dados a qualquer momento entrando em contato pelo e-mail: contato@jogajunto.app
